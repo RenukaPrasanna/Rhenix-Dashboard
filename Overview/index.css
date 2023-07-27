@@ -1,0 +1,1433 @@
+.healthdashboard-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.healthdashboard-healthdashboard {
+  width: 100%;
+  height: 935px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25) ;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(33, 150, 243, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 40px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.healthdashboard-rectangle47 {
+  top: 1px;
+  left: 209px;
+  width: 1233px;
+  height: 935px;
+  position: absolute;
+}
+.healthdashboard-image2 {
+  top: 0px;
+  left: 17px;
+  width: 170px;
+  height: 164px;
+  position: absolute;
+}
+.healthdashboard-component1 {
+  top: 57px;
+  left: 1139px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.healthdashboard-ellipse16 {
+  top: 0px;
+  left: 0px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 1px;
+}
+.healthdashboard-group19 {
+  top: 25px;
+  left: 27px;
+  width: 26px;
+  height: 31px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-vector {
+  top: 0px;
+  left: 0px;
+  width: 26px;
+  height: 31px;
+  position: absolute;
+}
+.healthdashboard-ellipse15 {
+  top: 1.67578125px;
+  left: 15.241898536682129px;
+  width: 7px;
+  height: 7px;
+  position: absolute;
+  border-color: rgba(240, 234, 234, 1);
+  border-style: solid;
+  border-width: 0.07500000298023224px;
+}
+.healthdashboard-component2 {
+  top: 57px;
+  left: 1229px;
+  width: 80px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.healthdashboard-ellipse13 {
+  top: 0px;
+  left: 0px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 1px;
+}
+.healthdashboard-group {
+  top: 27px;
+  left: 25px;
+  width: 30.00128936767578px;
+  height: 25.00014877319336px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-vector01 {
+  top: 0px;
+  left: 11.191433906555176px;
+  width: 19px;
+  height: 20px;
+  position: absolute;
+}
+.healthdashboard-vector02 {
+  top: 5.007512092590332px;
+  left: 0px;
+  width: 21px;
+  height: 20px;
+  position: absolute;
+}
+.healthdashboard-component3 {
+  top: 57px;
+  left: 1319px;
+  width: 80px;
+  height: 80px;
+  position: absolute;
+}
+.healthdashboard-component6 {
+  top: 174px;
+  left: 12px;
+  width: 180px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.healthdashboard-rectangle50 {
+  top: 0px;
+  left: 0px;
+  width: 180px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(255, 255, 255, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10px;
+}
+.healthdashboard-vector03 {
+  top: 11px;
+  left: 26px;
+  width: 17px;
+  height: 18px;
+  position: absolute;
+}
+.healthdashboard-text {
+  top: 11px;
+  left: 50px;
+  color: rgba(255, 255, 255, 1);
+  width: 78px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Lato;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-component8 {
+  top: 261px;
+  left: 12px;
+  width: 180px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.healthdashboard-rectangle52 {
+  top: 0px;
+  left: 0px;
+  width: 180px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(76, 123, 186, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.healthdashboard-text02 {
+  top: 11px;
+  left: 58px;
+  color: rgba(76, 123, 186, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-vector04 {
+  top: 11px;
+  left: 25px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.healthdashboard-component9 {
+  top: 341px;
+  left: 12px;
+  width: 180px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.healthdashboard-rectangle53 {
+  top: 0px;
+  left: 0px;
+  width: 180px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(76, 123, 186, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.healthdashboard-vector05 {
+  top: 10px;
+  left: 22px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.healthdashboard-text04 {
+  top: 10px;
+  left: 60px;
+  color: rgba(76, 123, 186, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-component10 {
+  top: 421px;
+  left: 12px;
+  width: 180px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.healthdashboard-rectangle54 {
+  top: 0px;
+  left: 0px;
+  width: 180px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(76, 123, 186, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.healthdashboard-vector06 {
+  top: 11px;
+  left: 19px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.healthdashboard-text06 {
+  top: 11px;
+  left: 64px;
+  color: rgba(76, 123, 186, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-component11 {
+  top: 501px;
+  left: 12px;
+  width: 180px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.healthdashboard-rectangle55 {
+  top: 0px;
+  left: 0px;
+  width: 180px;
+  height: 40px;
+  position: absolute;
+  border-color: rgba(76, 123, 186, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 20px;
+}
+.healthdashboard-vector07 {
+  top: 11px;
+  left: 20px;
+  width: 17px;
+  height: 19px;
+  position: absolute;
+}
+.healthdashboard-text08 {
+  top: 9px;
+  left: 60px;
+  color: rgba(76, 123, 186, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text10 {
+  top: 73px;
+  left: 238px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 32px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text12 {
+  top: 117px;
+  left: 241px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text14 {
+  top: 200px;
+  left: 887px;
+  color: rgba(237, 241, 247, 1);
+  width: 355px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-group21 {
+  top: 266px;
+  left: 817px;
+  width: 165px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-ellipse17 {
+  top: 0px;
+  left: 0px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.healthdashboard-text16 {
+  top: 0px;
+  color: rgba(255, 255, 255, 1);
+  right: -4px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-group29 {
+  top: 685px;
+  left: 803px;
+  width: 110px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-ellipse171 {
+  top: 0px;
+  left: 0px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.healthdashboard-text18 {
+  top: 0px;
+  color: rgba(255, 255, 255, 1);
+  right: -1px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-group20 {
+  top: 266px;
+  left: 1185px;
+  width: 130px;
+  height: 18px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-ellipse18 {
+  top: 0px;
+  left: 0px;
+  width: 18px;
+  height: 18px;
+  position: absolute;
+}
+.healthdashboard-text20 {
+  left: 27px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-group31 {
+  top: 302px;
+  left: 748px;
+  width: 332px;
+  height: 330px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-group22 {
+  top: 0px;
+  left: 0px;
+  width: 332px;
+  height: 330px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-rectangle64 {
+  top: 155px;
+  left: 217px;
+  width: 62px;
+  height: 20px;
+  position: absolute;
+}
+.healthdashboard-rectangle60 {
+  top: 0px;
+  left: 172px;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 10px;
+}
+.healthdashboard-rectangle61 {
+  top: 170px;
+  left: 172px;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 10px;
+}
+.healthdashboard-rectangle63 {
+  top: 155px;
+  left: 49px;
+  width: 62px;
+  height: 20px;
+  position: absolute;
+}
+.healthdashboard-rectangle62 {
+  top: 170px;
+  left: 0px;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 10px;
+}
+.healthdashboard-rectangle59 {
+  top: 0px;
+  left: 0px;
+  width: 160px;
+  height: 160px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 4px;
+  border-radius: 10px;
+}
+.healthdashboard-text22 {
+  top: 23px;
+  left: 55px;
+  color: rgba(145, 145, 145, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Sansation;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text24 {
+  top: 202px;
+  left: 46px;
+  color: rgba(145, 145, 145, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Sansation;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text26 {
+  top: 197px;
+  color: rgba(145, 145, 145, 1);
+  right: 36px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Sansation;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text28 {
+  top: 23px;
+  left: 229px;
+  color: rgba(145, 145, 145, 1);
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Sansation;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-group1 {
+  top: 21px;
+  left: 194px;
+  width: 20.00015640258789px;
+  height: 19.001188278198242px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-vector08 {
+  top: -4px;
+  left: -178px;
+  width: 32px;
+  height: 36px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0);
+  border-width: 1px;
+}
+.healthdashboard-vector09 {
+  top: 4px;
+  left: -7px;
+  width: 40px;
+  height: 25px;
+  position: absolute;
+}
+.healthdashboard-vector10 {
+  top: 6.047260761260986px;
+  left: -3.637978807091713e-12px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.healthdashboard-text30 {
+  top: 40px;
+  left: 55px;
+  color: rgba(76, 123, 186, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Sansation;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text32 {
+  top: 40px;
+  left: 229px;
+  color: rgba(76, 123, 186, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Sansation;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text34 {
+  top: 215px;
+  left: 234px;
+  color: rgba(76, 123, 186, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Sansation;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-group24 {
+  top: 63px;
+  left: 10px;
+  width: 139px;
+  height: 80px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(95, 178, 229, 0.7599999904632568);
+}
+.healthdashboard-group23 {
+  top: 35px;
+  left: 30px;
+  width: 80px;
+  height: 45px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-rectangle66 {
+  top: 22px;
+  left: 0px;
+  width: 8px;
+  height: 23px;
+  position: absolute;
+}
+.healthdashboard-rectangle67 {
+  top: 15px;
+  left: 18px;
+  width: 8px;
+  height: 30px;
+  position: absolute;
+}
+.healthdashboard-rectangle68 {
+  top: 0px;
+  left: 36px;
+  width: 8px;
+  height: 45px;
+  position: absolute;
+}
+.healthdashboard-rectangle69 {
+  top: 26px;
+  left: 54px;
+  width: 8px;
+  height: 19px;
+  position: absolute;
+}
+.healthdashboard-rectangle70 {
+  top: 5px;
+  left: 72px;
+  width: 8px;
+  height: 40px;
+  position: absolute;
+}
+.healthdashboard-vector10 {
+  top: 31.921875px;
+  left: 30px;
+  width: 74px;
+  height: 27px;
+  position: absolute;
+}
+.healthdashboard-rectangle661 {
+  top: 68px;
+  left: 182px;
+  width: 139px;
+  height: 80px;
+  position: absolute;
+  border-radius: 10px;
+}
+.healthdashboard-group25 {
+  top: 94px;
+  left: 201px;
+  width: 102px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-vector11 {
+  top: 0px;
+  left: 0px;
+  width: 51px;
+  height: 28px;
+  position: absolute;
+}
+.healthdashboard-vector12 {
+  top: 0px;
+  left: 51px;
+  width: 51px;
+  height: 28px;
+  position: absolute;
+}
+.healthdashboard-rectangle671 {
+  top: 239px;
+  left: 9px;
+  width: 139px;
+  height: 80px;
+  position: absolute;
+  border-radius: 10px;
+}
+.healthdashboard-group27 {
+  top: 248px;
+  left: 24px;
+  width: 110px;
+  height: 63px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-group26 {
+  top: 0px;
+  left: 0px;
+  width: 110px;
+  height: 57px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 0);
+}
+.healthdashboard-line12 {
+  top: 0px;
+  left: 0.000002491487975930795px;
+  width: 57px;
+  height: 1px;
+  position: absolute;
+}
+.healthdashboard-line13 {
+  top: 57px;
+  left: 0.000002491487975930795px;
+  width: 110px;
+  height: 1px;
+  position: absolute;
+}
+.healthdashboard-line14 {
+  top: 55px;
+  left: 8px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.healthdashboard-line19 {
+  top: 50px;
+  left: 2px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.healthdashboard-line20 {
+  top: 40px;
+  left: 2px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.healthdashboard-line21 {
+  top: 30px;
+  left: 2px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.healthdashboard-line22 {
+  top: 20px;
+  left: 2px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.healthdashboard-line23 {
+  top: 10px;
+  left: 2px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.healthdashboard-line15 {
+  top: 55px;
+  left: 31px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.healthdashboard-line16 {
+  top: 55px;
+  left: 54px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.healthdashboard-line17 {
+  top: 55px;
+  left: 77px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.healthdashboard-line18 {
+  top: 55px;
+  left: 100px;
+  width: 2px;
+  height: 1px;
+  position: absolute;
+}
+.healthdashboard-text36 {
+  top: 57px;
+  left: 3px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Sansation;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text38 {
+  top: 57px;
+  left: 93px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 5px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Sansation;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-vector11 {
+  top: 18.5px;
+  left: 8px;
+  width: 92px;
+  height: 25px;
+  position: absolute;
+}
+.healthdashboard-rectangle681 {
+  top: 239px;
+  left: 182px;
+  width: 139px;
+  height: 80px;
+  position: absolute;
+  border-radius: 10px;
+}
+.healthdashboard-vector12 {
+  top: 267px;
+  left: 196px;
+  width: 111px;
+  height: 24px;
+  position: absolute;
+}
+.healthdashboard-rectangle71 {
+  top: 302px;
+  left: 1161px;
+  width: 212px;
+  height: 330px;
+  position: absolute;
+  border-radius: 20px;
+}
+.healthdashboard-group32 {
+  top: 332px;
+  left: 1172px;
+  width: 186px;
+  height: 301px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-text40 {
+  color: rgba(166, 159, 159, 1);
+  width: 179px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Sansation;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-rectangle72 {
+  top: 51px;
+  left: 24.866310119628906px;
+  width: 129px;
+  height: 24px;
+  position: absolute;
+}
+.healthdashboard-rectangle79 {
+  top: 259px;
+  left: 28.844919204711914px;
+  width: 129px;
+  height: 24px;
+  position: absolute;
+  border-radius: 5px;
+}
+.healthdashboard-text42 {
+  top: 56px;
+  left: 39px;
+  color: rgb(255, 255, 255);
+  width: 100px;
+  height: auto;
+  position: absolute;
+  font-size: 13px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Sansation;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-group28 {
+  top: 93px;
+  left: 0px;
+  width: 186px;
+  height: 147px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-rectangle73 {
+  top: 0px;
+  left: 0px;
+  width: 186px;
+  height: 47px;
+  position: absolute;
+}
+.healthdashboard-rectangle74 {
+  top: 50px;
+  left: 0px;
+  width: 186px;
+  height: 47px;
+  position: absolute;
+}
+.healthdashboard-rectangle75 {
+  top: 100px;
+  left: 0px;
+  width: 186px;
+  height: 47px;
+  position: absolute;
+}
+.healthdashboard-rectangle76 {
+  top: 5px;
+  left: 3.978609561920166px;
+  width: 42px;
+  height: 38px;
+  position: absolute;
+}
+.healthdashboard-rectangle77 {
+  top: 54px;
+  left: 3.978609561920166px;
+  width: 42px;
+  height: 38px;
+  position: absolute;
+}
+.healthdashboard-rectangle78 {
+  top: 104px;
+  left: 3.978609561920166px;
+  width: 42px;
+  height: 38px;
+  position: absolute;
+}
+.healthdashboard-text43 {
+  top: 16px;
+  left: 55.70053482055664px;
+  color: rgba(0, 0, 0, 1);
+  width: 68px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text45 {
+  top: 63px;
+  left: 55.70053482055664px;
+  color: rgba(0, 0, 0, 1);
+  width: 69px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text47 {
+  top: 113px;
+  left: 56.695186614990234px;
+  color: rgba(0, 0, 0, 1);
+  width: 66px;
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text49 {
+  top: 261px;
+  left: 47.743316650390625px;
+  color: rgba(255, 255, 255, 1);
+  width: 91px;
+  height: auto;
+  position: absolute;
+  font-size: 15px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-frame6 {
+  top: 723px;
+  left: 798px;
+  width: 642px;
+  height: 161px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.healthdashboard-ellipse19 {
+  top: 0px;
+  left: 0px;
+  width: 130px;
+  height: 130px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 3px;
+}
+.healthdashboard-ellipse20 {
+  top: 0px;
+  left: 149px;
+  width: 130px;
+  height: 130px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 3px;
+}
+.healthdashboard-ellipse21 {
+  top: 0px;
+  left: 298px;
+  width: 130px;
+  height: 130px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 3px;
+}
+.healthdashboard-ellipse22 {
+  top: 0px;
+  left: 447px;
+  width: 130px;
+  height: 130px;
+  position: absolute;
+  border-color: rgba(0, 0, 0, 0);
+  border-style: solid;
+  border-width: 3px;
+}
+.healthdashboard-ellipse23 {
+  top: 0px;
+  left: 596px;
+  width: 40px;
+  height: 130px;
+  position: absolute;
+  border-color: rgba(33, 150, 243, 0);
+  border-style: solid;
+  border-width: 3px;
+}
+.healthdashboard-ellipse231 {
+  top: 0px;
+  left: 745px;
+  width: 130px;
+  height: 130px;
+  position: absolute;
+  border-color: rgba(33, 150, 243, 0.5600000023841858);
+  border-style: solid;
+  border-width: 3px;
+}
+.healthdashboard-text51 {
+  top: 142px;
+  left: 28px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text53 {
+  top: 142px;
+  left: 195px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text55 {
+  top: 142px;
+  left: 344px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text57 {
+  top: 142px;
+  left: 477px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text59 {
+  top: 142px;
+  left: 629px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-text61 {
+  top: 142px;
+  left: 795px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-ellipse45 {
+  top: 671px;
+  left: 1380px;
+  width: 37px;
+  height: 36px;
+  position: absolute;
+}
+.healthdashboard-arrow7 {
+  top: 680px;
+  right: 15px;
+  width: 50px;
+  height: 20px;
+  position: absolute;
+}
+.healthdashboard-group57 {
+  top: 755px;
+  left: 47px;
+  width: 86px;
+  height: 25px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-vector13 {
+  left: -4px;
+  width: 25px;
+  bottom: -2px;
+  height: 25px;
+  position: absolute;
+}
+.healthdashboard-text63 {
+  top: 3px;
+  left: 32px;
+  color: rgba(76, 123, 186, 1);
+  height: auto;
+  position: absolute;
+  font-size: 16px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Nunito;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.healthdashboard-rectangle174 {
+  top: 229px;
+  left: 295px;
+  width: 373px;
+  height: 426px;
+  position: absolute;
+  border-radius: 20px;
+}
+.healthdashboard-frame58 {
+  gap: 10px;
+  top: 61px;
+  left: 271px;
+  width: 422px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: flex-start;
+}
+.healthdashboard-image3 {
+  width: 402px;
+  height: 664px;
+}
+.healthdashboard-group63 {
+  top: 557px;
+  left: 369px;
+  width: 225px;
+  height: 142px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(255, 255, 255, 0.4699999988079071);
+}
+.healthdashboard-group30 {
+  top: 54px;
+  left: 36px;
+  width: 153px;
+  height: 28px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+.healthdashboard-vector14 {
+  top: 0px;
+  left: 0px;
+  width: 51px;
+  height: 28px;
+  position: absolute;
+}
+.healthdashboard-vector15 {
+  top: 0px;
+  left: 51px;
+  width: 51px;
+  height: 28px;
+  position: absolute;
+}
+.healthdashboard-vector16 {
+  top: 0px;
+  left: 102px;
+  width: 51px;
+  height: 28px;
+  position: absolute;
+}
+.healthdashboard-text65 {
+  top: 106px;
+  left: 85px;
+  color: rgba(76, 123, 186, 1);
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Semi Bold;
+  text-align: center;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
